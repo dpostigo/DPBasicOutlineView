@@ -2,7 +2,7 @@
 // Created by Dani Postigo on 2/17/14.
 //
 
-#import <DPKit/NSObject+CallSelector.h>
+#import <DPKit-Utils/NSObject+CallSelector.h>
 #import "DPBasicOutlineView.h"
 #import "NSOutlineView+DPKit.h"
 #import "DPBasicOutlineViewDelegate.h"
