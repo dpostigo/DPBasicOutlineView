@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DPBasicOutlineView"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "DPBasicOutlineView"
   s.homepage     = "http://dpostigo.com"
   s.license      = 'BSD'
